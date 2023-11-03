@@ -1,0 +1,13 @@
+{
+  "Version": "1.0",
+  "LevelCurves": [
+    {
+      "Level": 1,
+      "KEY": "VALUE",
+    },
+    {
+      "Level": 2,
+      "KEY": "VALUE",
+    }
+  ]
+}
